@@ -17,4 +17,8 @@ yarn dev
 ## Adaptive Bitrate Streaming
 
  - ABS - https://www.wowza.com/blog/adaptive-bitrate-streaming </br>
- - HLS - https://www.freecodecamp.org/news/what-is-hls-and-when-to-use-it/
+ - HLS - https://www.freecodecamp.org/news/what-is-hls-and-when-to-use-it/ <br />
+ - Comparison https://www.internetvideoarchive.com/documentation/video-api/progressive-download-vs-adaptive-bitrate/ <br />
+
+![image](https://user-images.githubusercontent.com/22271244/87681834-81ad7e80-c755-11ea-89d7-2955b813cec3.png)
+
