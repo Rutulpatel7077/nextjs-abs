@@ -21,7 +21,7 @@ export default function Home() {
 
       <main>
         <Title>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          I am a styled-component
         </Title>
 
         <p className="description">
@@ -33,6 +33,32 @@ export default function Home() {
             <a className="card">
               <h3>XState &rarr;</h3>
               <p>Simple implementation of Xstate</p>
+            </a>
+          </Link>
+
+          <Link href="/jwplayer">
+            <a className="card">
+              <h3>React JW Player &rarr;</h3>
+              <p>React wrapper around JW Player</p>
+            </a>
+          </Link>
+
+          <Link href="/replay">
+            <a className="card">
+              <h3>React Replay Player &rarr;</h3>
+              <p>Replay Player ( no SSR )</p>
+            </a>
+          </Link>
+          <Link href="/static-starwars">
+            <a className="card">
+              <h3>Static starwars page &rarr;</h3>
+              <p>Page already made during build time</p>
+            </a>
+          </Link>
+          <Link href="/dynamic-starwars">
+            <a className="card">
+              <h3>Dynamic starwars page &rarr;</h3>
+              <p>Page will dynamically created on each request</p>
             </a>
           </Link>
         </div>

@@ -19,6 +19,10 @@ yarn dev
  - ABS - https://www.wowza.com/blog/adaptive-bitrate-streaming </br>
  - HLS - https://www.freecodecamp.org/news/what-is-hls-and-when-to-use-it/ <br />
  - Comparison https://www.internetvideoarchive.com/documentation/video-api/progressive-download-vs-adaptive-bitrate/ <br />
+ - Comparison http://www.imediaconnection.com/articles/ported-articles/blogs/2012/apr/mpeg-dashits-time-for-apple-to-put-up-or-shut-up/ <br />
 
 ![image](https://user-images.githubusercontent.com/22271244/87681834-81ad7e80-c755-11ea-89d7-2955b813cec3.png)
 
+
+## Useful libraries
+ - https://vimond.github.io/replay/#/

@@ -1,5 +1,6 @@
 import App from 'next/app'
 import { ThemeProvider } from 'styled-components'
+import 'vimond-replay/index.css';
 
 const theme = {
   colors: {
